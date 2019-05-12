@@ -1,0 +1,66 @@
+{
+  "resume": {
+    "about": {
+      "name": "Prateek Dagur",
+      "designation": "Full Stack Web Developer"
+    },    
+    "contact": {
+      "github": "http://github.com/itsmysterybox",
+      "stackoverflow": "http://stackoverflow.com/users/10372900/itsmysterybox?tab=profile",
+      "pinterest": "http://www.pinterest.com/itsmysterybox"
+    },
+    "education": {
+      "school": "Rajiv Academy for Technology and Management",
+      "gradutionDate": "June 2019",
+      "study": {
+        "undergraduation": "Bachelor of Computer Applications"
+      }
+    },
+    "projects": [
+      {
+        "title": "Video Share",
+        "description": "Video sharing platform with PHP",
+        "links": {
+          "github": "https://github.com/itsmysterybox/video-share"
+        }
+      },
+      {
+        "title": "Todos",
+        "description": "Todo app with Laravel",
+        "links": {
+          "github": "https://github.com/itsmysterybox/todos"
+        }
+      },
+      {
+        "title": "lock-android",
+        "description": "Lock device without using power button",
+        "links": {
+          "github": "https://github.com/itsmysterybox/android-lock-screen"
+        }
+      }
+    ],
+    "skills": {
+      "languages": [
+        "JavaScript",
+        "PHP",
+        "CSS (Sass)",
+        "HTML",
+        "Java"
+      ],
+      "frameworks-and-libraries": [
+        "Laravel",
+        "jQuery",
+        "Bootstrap"
+      ],
+      "web-tooling": [
+        "git",
+        "surge",
+        "composer",
+        "shell"
+      ],
+      "database": [
+        "SQL"
+      ]
+    }
+  }
+}
