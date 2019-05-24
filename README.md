@@ -1,7 +1,8 @@
 # cli-portfolio
 Portfolio with cli interface
 
+> Still in development
+
 ## Demo
-[Github](https://itsmysterybox.github.io/cli-portfolio/) (with some bug)
-<br>
-[Surge](http://clidemo.surge.sh/)
+[Github](https://itsmysterybox.github.io/cli-portfolio/)
+
